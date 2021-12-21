@@ -1,6 +1,5 @@
 from selenium import webdriver
 import unittest
-from PageObjects.page import HomePage
 from PageObjects.page import PicturePage
 
 
